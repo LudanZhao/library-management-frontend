@@ -56,7 +56,7 @@ The app will be available at: [http://localhost:3000](http://localhost:3000)
 
 ### Home Page (Entry Page)
 
-- Simple UI with a **"Go to Books"** button
+- Simple UI with a **"Go to library"** button
 
 ### Books List Page (`/books`)
 
